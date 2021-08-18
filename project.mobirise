@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "Score and Points.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -3973,7 +3973,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Laboratorium Proses UNDIP",
+        "title": "Chemical Process Laboratory UNDIP",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
