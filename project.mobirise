@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "Scores and Points.html",
+    "currentPage": "Scores_and_Points.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -2302,7 +2302,7 @@
         }
       ]
     },
-    "Assistant Schedule.html": {
+    "Assistant_Schedule.html": {
       "settings": {
         "title": "Assistant Data and Schedule",
         "order": 3
@@ -2884,7 +2884,7 @@
         }
       ]
     },
-    "Report Format.html": {
+    "Report_Format.html": {
       "settings": {
         "title": "Report Format",
         "order": 4
@@ -3467,7 +3467,7 @@
         }
       ]
     },
-    "Assistants and Lecturers Distribution.html": {
+    "Assistants_and_Lecturers_Distribution.html": {
       "settings": {
         "title": "Lecturers and Materials Distribution",
         "order": 5
@@ -4050,7 +4050,7 @@
         }
       ]
     },
-    "Scores and Points.html": {
+    "Scores_and_Points.html": {
       "settings": {
         "title": "Scores and Points",
         "order": 7
