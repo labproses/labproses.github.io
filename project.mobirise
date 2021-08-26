@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "Scores and Points.html",
+    "currentPage": "Scores_and_Points.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -4090,7 +4090,7 @@
         }
       ]
     },
-    "Scores and Points.html": {
+    "Scores_and_Points.html": {
       "settings": {
         "title": "Scores and Points",
         "order": 7
