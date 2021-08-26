@@ -1,2 +1,2 @@
 # labproses.github.io
-GitHub Pages
+Web on problem, please contact us.
