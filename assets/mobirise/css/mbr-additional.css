@@ -1030,6 +1030,58 @@ a {
 .cid-sErYO7v54X .mbr-section-title {
   color: #ffffff;
 }
+.cid-sOIEAlti1s {
+  padding-top: 4rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sOIEAlti1s .number-wrap {
+  color: #000000;
+  text-align: center;
+}
+.cid-sOIEAlti1s .number {
+  color: #6592e6;
+}
+.cid-sOIEAlti1s .period {
+  display: block;
+}
+.cid-sOIEAlti1s .dot {
+  display: none;
+}
+@media (max-width: 767px) {
+  .cid-sOIEAlti1s .period {
+    font-size: 0.8rem;
+  }
+}
+.cid-sOIEAlti1s .btn {
+  height: 100%;
+  margin: 0;
+}
+.cid-sOIEAlti1s .mbr-section-btn {
+  margin-bottom: 1.2rem;
+}
+.cid-sOIEAlti1s .icons-menu .soc-item {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.cid-sOIEAlti1s .icons-menu .soc-item .mbr-iconfont {
+  font-size: 2rem;
+  display: flex;
+  border-radius: 50%;
+  text-align: center;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  justify-content: center;
+  align-content: center;
+  transition: all 0.3s;
+}
+.cid-sOIEAlti1s .icons-menu .soc-item .mbr-iconfont:before {
+  padding: 0.6rem;
+}
+.cid-sOIEAlti1s .icons-menu .soc-item .mbr-iconfont:hover {
+  background-color: #ffffff;
+  color: #000000;
+}
 .cid-sErZ84kTHp {
   padding-top: 6rem;
   padding-bottom: 6rem;
