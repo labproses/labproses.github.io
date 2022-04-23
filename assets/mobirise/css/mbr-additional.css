@@ -1030,6 +1030,19 @@ a {
 .cid-sErYO7v54X .mbr-section-title {
   color: #ffffff;
 }
+.cid-t3N1pnvyls {
+  padding-top: 6rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-t3N1pnvyls .video-wrapper iframe {
+  width: 100%;
+}
+.cid-t3N1pnvyls .mbr-section-title,
+.cid-t3N1pnvyls .mbr-section-subtitle,
+.cid-t3N1pnvyls .mbr-text {
+  text-align: center;
+}
 .cid-sErZ84kTHp {
   padding-top: 6rem;
   padding-bottom: 6rem;
