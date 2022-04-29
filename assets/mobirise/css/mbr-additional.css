@@ -1043,6 +1043,24 @@ a {
 .cid-t3N1pnvyls .mbr-text {
   text-align: center;
 }
+.cid-t4n4kmmhID {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-t4n4kmmhID .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-t4n4kmmhID img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-t4n4kmmhID .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-sErZ84kTHp {
   padding-top: 6rem;
   padding-bottom: 6rem;
