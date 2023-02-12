@@ -1093,7 +1093,7 @@ a {
 .cid-sEs5uTYc4Z {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #d86b30;
+  background-color: #2299aa;
 }
 @media (min-width: 992px) {
   .cid-sEs5uTYc4Z .text-wrapper {
@@ -1111,6 +1111,10 @@ a {
 }
 .cid-sEs5uTYc4Z .mbr-text {
   text-align: left;
+  color: #fafafa;
+}
+.cid-sEs5uTYc4Z .name {
+  color: #fafafa;
 }
 .cid-sEs0CRjc5e {
   padding-top: 5rem;
