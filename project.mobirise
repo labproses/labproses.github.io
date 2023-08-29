@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WEB PROSES",
-    "currentPage": "D.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -657,7 +657,8 @@
               "color": "#fafafa"
             },
             ".name": {
-              "color": "#fafafa"
+              "color": "#fafafa",
+              "text-align": "left"
             }
           },
           "_name": "testimonials1",
