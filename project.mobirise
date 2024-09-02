@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WEB PROSES",
-    "currentPage": "F.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -52,7 +52,7 @@
     "versionPublish": "5.9.18",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "favicon": "@PROJECT_PATH@/assets/images/logo-proses-pake-bg-128x128_1.png",
     "mbrsiteDomain": "gyngvolcaf",
     "robotsSwitcher": false,
